@@ -7,8 +7,6 @@
 # documentation.
 
 name: Java CI with Maven
-permissions:
-  content:read
 on:
   push:
     branches: [ "main" ]
